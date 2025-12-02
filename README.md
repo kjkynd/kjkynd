@@ -15,7 +15,7 @@
 - Second item
 - Third item
 ---
-	[Read Me](https://www.example.com)
+	[Read Me](README.md)
   
 <!---
 kjkynd/kjkynd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
