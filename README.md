@@ -9,9 +9,4 @@ What makes my journey unique is the way I’ve learned to embrace both chaos and
 Full disclosure: Those two paragraphs were AI generated, but remarkably accurate.
 It's a little scary...
 
-|  [ReadMe](https://duckduckgo.com) |  [Duck Duck Go](https://duckduckgo.com) |
-  
-<!---
-kjkynd/kjkynd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+|  [ReadMe](https://github.com/kjkynd/kjkynd/blob/main/README.md) |  [Things I Like](https://github.com/kjkynd/kjkynd/blob/main/ThingsILike.md) |
