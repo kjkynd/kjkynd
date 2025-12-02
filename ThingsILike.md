@@ -19,7 +19,9 @@ My Favorite Places I've Visited
 - Any of a dozen Carribean Islands
 
 **Above everything, I just love spending time with my wife, family, and friends!**
-|  |  |
-| ----------- | ----------- |
-| ![Tux, the Linux mascot](/assets/images/tux.png) | ![Tux, the Linux mascot](/assets/images/tux.png) |
-| ![Tux, the Linux mascot](/assets/images/tux.png) | ![Tux, the Linux mascot](/assets/images/tux.png) |
+|  |  |  |
+| -------------------------- | -------------------------- | -------------------------- |
+| ![My Hot Wife](/images/HotWife.jpg) | ![Brothers On Bikes](/images/BrothersOnBikes.jpg) | ![My Dogs](/images/Dogs.jpg) |
+| ![Dollywood](/images/Dollywood.jpg) | ![Family](/images/FamilyPic.jpg) | ![Mud Run](/images/MudRun.jpg) |
+
+|  [ReadMe](README.md) |  [Things I Like](ThingsILike.md) |
